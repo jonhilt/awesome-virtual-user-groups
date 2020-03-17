@@ -5,3 +5,4 @@ In light of the ever-changing Covid-19 outbreak, here's a list of .NET user grou
 # User Groups
 
 * [London .NET User Group](https://www.meetup.com/London-NET-User-Group/) - Hosted a Virtual Tech Lunch Meetup on March 17th 2020, looks like more to follow
+* [ONETUG - Orlando .NET User Group](https://www.meetup.com/onetug/)
