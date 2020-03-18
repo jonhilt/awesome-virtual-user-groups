@@ -2,7 +2,7 @@
 
 ## March
 
-[Building real-time applications with Blazor and GraphQL with Michael Staib - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269455344/) - **April 21st**
+[Building real-time applications with Blazor and GraphQL with Michael Staib - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269455344/) - **March 27th**
 
 
 ## April
