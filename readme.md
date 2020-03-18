@@ -6,6 +6,7 @@ In light of the ever-changing Covid-19 outbreak, and as more of us find ourselve
 
 * [London .NET User Group](https://www.meetup.com/London-NET-User-Group/) - Hosted a Virtual Tech Lunch Meetup on March 17th 2020, looks like more to follow
 * [ONETUG - Orlando .NET User Group](https://www.meetup.com/onetug/) - Orlando .NET User Group
+* [.NET Oxford](https://www.meetup.com/dotnetoxford/) - 3 years of physical monthly meetups, with the next one in April being our first virtual one!
 
 # Potentially Virtual User Groups
 
