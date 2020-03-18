@@ -6,6 +6,7 @@
 
 
 ## April
+[Remote Kata - Dot Net York](https://www.meetup.com/dotnetYork/events/269346476/) - **April 02**
 
 [Mark Rendle: Writing Code That Writes Code with Roslyn - .NET Oxford](https://www.meetup.com/dotnetoxford/events/269032612/) - **April 21st**
 
