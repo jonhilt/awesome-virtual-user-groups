@@ -10,4 +10,8 @@ In light of the ever-changing Covid-19 outbreak, and as more of us find ourselve
 
 # Potentially Virtual User Groups
 
-* [Brisbane .NET User Group](https://www.meetup.com/Brisbane-Net-User-Group/) - Currently looking into hosting events virtually
+* [Brisbane .NET User Group](https://www.meetup.com/Brisbane-Net-User-Group/) - Currently looking into hosting events virtually  
+
+# Potentially Virtual Conferences  
+
+* [DDD East Anglia](https://www.dddeastanglia.com) - Looking into running an online event for 2020
