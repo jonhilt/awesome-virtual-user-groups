@@ -18,4 +18,4 @@ In light of the ever-changing Covid-19 outbreak, and as more of us find ourselve
 # Potentially Virtual Conferences  
 
 * [DDD East Anglia](https://www.dddeastanglia.com) - Looking into running an online event for 2020
-* [NDC Conferences](https://dylanbeattie.net/2020/03/18/ndc-online-community-ambassador.html) - A blog post from Dylan Beattie about joining NDC conferences as their Online Community Ambassador, working with them to help them deliver virtual events and conferences over the coming months.
+* [NDC Conferences](https://dylanbeattie.net/2020/03/18/ndc-online-community-ambassador.html) - A blog post from Dylan Beattie about joining NDC conferences as their Online Community Ambassador, working with them to deliver virtual events and conferences over the coming months.
