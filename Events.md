@@ -3,6 +3,8 @@
 ## March
 [London .NET Virtual Lunchtime Meetup](https://t.co/NlrEmakC6G?amp=1) - **Thursday 19th March 13:00-14:00 UK time**
 
+[https://devblogs.microsoft.com/xamarin/xamarin-conf-one-week-away/] - **Monday 23rd March 8:00-16:00 UTC**
+
 [Building real-time applications with Blazor and GraphQL with Michael Staib - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269455344/) - **March 27th**
 
 ## April
