@@ -6,6 +6,8 @@
 
 [Building real-time applications with Blazor and GraphQL with Michael Staib - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269455344/) - **March 27th**
 
+[NUnit, MSTest and xUnit - What is similar? What is different? - DotNetDevs.at](https://www.meetup.com/dotnet-austria/events/269280721/) - **March 31st**
+
 ## April
 [Remote Kata - Dot Net York](https://www.meetup.com/dotnetYork/events/269346476/) - **April 2nd**
 
