@@ -24,3 +24,4 @@ In light of the ever-changing Covid-19 outbreak, and as more of us find ourselve
 # Resources to help take your event online
 
 * [How to host an online event on meetup](https://www.meetup.com/blog/how-to-host-an-online-event-on-meetup/) - "during the coronavirus advisory, we’re working on solutions to help you host online events and keep your communities both safe and connected"
+* [The best gear for remote presentations](https://www.youtube.com/watch?v=yNzU-TPdxR4) - You certainly don't need everything mentioned here to take your event online but a really interesting look at an advanced setup nonetheless
