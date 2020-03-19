@@ -1,7 +1,6 @@
 #### This is a list of events ordered by their date. You'll find information on how to attend each one by clicking their links.
 
 ## March
-[London .NET Virtual Lunchtime Meetup](https://t.co/NlrEmakC6G?amp=1) - **Thursday 19th March 13:00-14:00 UK time**
 
 [.NET Conf: Focus On Xamarin](https://devblogs.microsoft.com/xamarin/xamarin-conf-one-week-away) - **Monday 23rd March 8:00-16:00 UTC**
 
@@ -15,3 +14,7 @@
 [Mark Rendle: Writing Code That Writes Code with Roslyn - .NET Oxford](https://www.meetup.com/dotnetoxford/events/269032612/) - **April 21st**
 
 [Global Azure Virtual (online only event) - Orlando .NET User Group](https://www.meetup.com/ONETUG/events/267816898) - **April 25th**
+
+## Past Events
+
+[London .NET Virtual Lunchtime Meetup](https://t.co/NlrEmakC6G?amp=1) - **Thursday 19th March 13:00-14:00 UK time**
