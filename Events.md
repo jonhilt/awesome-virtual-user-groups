@@ -4,6 +4,7 @@
 
 [Building real-time applications with Blazor and GraphQL with Michael Staib - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269455344/) - **March 27th**
 
+[London .NET Virtual Lunchtime Meetup](https://t.co/NlrEmakC6G?amp=1) - **Thursday 19th March 13:00-14:00 UK time**
 
 ## April
 [Remote Kata - Dot Net York](https://www.meetup.com/dotnetYork/events/269346476/) - **April 2nd**
