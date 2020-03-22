@@ -8,6 +8,8 @@
 
 [NUnit, MSTest and xUnit - What is similar? What is different? - DotNetDevs.at](https://www.meetup.com/dotnet-austria/events/269280721/) - **March 31st**
 
+[Shahid Iqbal at Virtual Special v0.1-preview-alpha1-servicepack1 - MK.NET](https://t.co/oF88oTlOB1?amp=1) - **March 31st**
+
 ## April
 [Remote Kata - Dot Net York](https://www.meetup.com/dotnetYork/events/269346476/) - **April 2nd**
 
