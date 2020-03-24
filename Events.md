@@ -10,6 +10,8 @@
 
 [Shahid Iqbal at Virtual Special v0.1-preview-alpha1-servicepack1 - MK.NET](https://t.co/oF88oTlOB1?amp=1) - **March 31st**
 
+[Automating UI testing with Tom Austin](https://www.digitallincoln.co.uk/events-list/2020/3/automating-ui-testing) - moving online **March 31st**
+
 ## April
 [Remote Kata - Dot Net York](https://www.meetup.com/dotnetYork/events/269346476/) - **April 2nd**
 
