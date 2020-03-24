@@ -2,8 +2,6 @@
 
 ## March
 
-[.NET Conf: Focus On Xamarin](https://devblogs.microsoft.com/xamarin/xamarin-conf-one-week-away) - **Monday 23rd March 8:00-16:00 UTC**
-
 [Jon Skeet - Crash, bang, wallop: miscellaneous lessons from exploring a drum kit](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/263970470/) - **March 24th**
 
 [Building real-time applications with Blazor and GraphQL with Michael Staib - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269455344/) - **March 27th**
@@ -24,3 +22,5 @@
 ## Past Events
 
 [London .NET Virtual Lunchtime Meetup](https://t.co/NlrEmakC6G?amp=1) - **Thursday 19th March 13:00-14:00 UK time**
+
+[.NET Conf: Focus On Xamarin](https://devblogs.microsoft.com/xamarin/xamarin-conf-one-week-away) - **Monday 23rd March 8:00-16:00 UTC**
