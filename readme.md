@@ -17,6 +17,7 @@ Organising an event? Submit a pull request with the relevant information.
 # Potentially Virtual User Groups
 
 * [Brisbane .NET User Group](https://www.meetup.com/Brisbane-Net-User-Group/) - Currently looking into hosting events virtually  
+* [Dot Net Notts](https://dotnetnotts.co/) - Preparing to move online
 
 # Potentially Virtual Conferences  
 
