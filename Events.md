@@ -10,6 +10,8 @@
 
 [Automating UI testing with Tom Austin - Digital Lincoln](https://www.digitallincoln.co.uk/events-list/2020/3/automating-ui-testing) - moving online **March 31st**
 
+[Simon Painter - Hacking C# & Stuart Lang - Async in C# - Dot Net Notts](https://www.meetup.com/dotnetnotts/events/269642073/) - **March 30th 18:30-21:30 UK time**
+
 ## April
 [Remote Kata - Dot Net York](https://www.meetup.com/dotnetYork/events/269346476/) - **April 2nd**
 
