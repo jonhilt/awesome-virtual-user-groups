@@ -15,6 +15,8 @@
 
 [Learn Authentication The Hard Way, with Andrew Best - Adelaide .NET User Group](https://www.meetup.com/en-AU/Adelaide-dotNET/events/269471859/) - **April 8th**
 
+[The Live Coders Conference - Affiliated with .NET Southwest User Group](https://www.meetup.com/dotnetsouthwest/events/269525151/) - **April 9th**
+
 [Mark Rendle: Writing Code That Writes Code with Roslyn - .NET Oxford](https://www.meetup.com/dotnetoxford/events/269032612/) - **April 21st**
 
 [Global Azure Virtual (online only event) - Orlando .NET User Group](https://www.meetup.com/ONETUG/events/267816898) - **April 25th**
