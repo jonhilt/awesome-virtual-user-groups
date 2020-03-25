@@ -21,6 +21,8 @@
 
 [Global Azure Virtual (online only event) - Orlando .NET User Group](https://www.meetup.com/ONETUG/events/267816898) - **April 25th**
 
+[Full Fat Functions! - Layla Porter](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/264156464) - **April 28th**
+
 ## Past Events
 
 [London .NET Virtual Lunchtime Meetup](https://t.co/NlrEmakC6G?amp=1) - **Thursday 19th March 13:00-14:00 UK time**
