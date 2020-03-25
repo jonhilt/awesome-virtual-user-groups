@@ -13,11 +13,11 @@ Organising an event? Submit a pull request with the relevant information.
 * [.NET Oxford](https://www.meetup.com/dotnetoxford/) - 3 years of physical monthly meetups, with the next one in April being our first virtual one!
 * [.NET Iasi](https://www.meetup.com/DotNetIasi/) - In the past 2 years we made physical monthly meetups, this month we'll do our first one live on March 27th
 * [Adelaide .NET User Group](https://www.meetup.com/Adelaide-dotNET/) - ADNUG has been meeting monthly for a very long time. Going virtual from April.
+* [Dot Net Notts](https://dotnetnotts.co/) - Going online March 2020
 
 # Potentially Virtual User Groups
 
 * [Brisbane .NET User Group](https://www.meetup.com/Brisbane-Net-User-Group/) - Currently looking into hosting events virtually  
-* [Dot Net Notts](https://dotnetnotts.co/) - Preparing to move online
 * [.NET Southwest (UK) User Group](https://www.meetup.com/dotnetsouthwest/) - Currently looking into hosting events virtually
 
 # Potentially Virtual Conferences  
