@@ -6,6 +6,10 @@ In light of the ever-changing Covid-19 outbreak, and as more of us find ourselve
 
 Organising an event? Submit a pull request with the relevant information.
 
+# Virtual Workshops
+
+* [Carl Franklin's Blazor Desk Show](http://blazordeskshow.com/) - Sponsered by DevExpress, lots of dates coming up in March and April
+
 # Virtual User Groups
 
 * [London .NET User Group](https://www.meetup.com/London-NET-User-Group/) - Hosted a Virtual Tech Lunch Meetup on March 17th 2020, looks like more to follow
