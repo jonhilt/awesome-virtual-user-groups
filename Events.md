@@ -4,6 +4,8 @@
 
 [Building real-time applications with Blazor and GraphQL with Michael Staib - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269455344/) - **March 27th**
 
+[Simon Painter - Hacking C# & Stuart Lang - Async in C# - Dot Net Notts](https://www.meetup.com/dotnetnotts/events/269642073/) - **March 30th 18:30-21:30 UK time**
+
 [NUnit, MSTest and xUnit - What is similar? What is different? - DotNetDevs.at](https://www.meetup.com/dotnet-austria/events/269280721/) - **March 31st**
 
 [Shahid Iqbal at Virtual Special v0.1-preview-alpha1-servicepack1 - MK.NET](https://t.co/oF88oTlOB1?amp=1) - **March 31st**

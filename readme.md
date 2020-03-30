@@ -6,6 +6,10 @@ In light of the ever-changing Covid-19 outbreak, and as more of us find ourselve
 
 Organising an event? Submit a pull request with the relevant information.
 
+# Virtual Workshops
+
+* [Carl Franklin's Blazor Desk Show](http://blazordeskshow.com/) - Sponsored by DevExpress, lots of dates coming up in March and April
+
 # Virtual User Groups
 
 * [London .NET User Group](https://www.meetup.com/London-NET-User-Group/) - Hosted a Virtual Tech Lunch Meetup on March 17th 2020, looks like more to follow
@@ -13,12 +17,20 @@ Organising an event? Submit a pull request with the relevant information.
 * [.NET Oxford](https://www.meetup.com/dotnetoxford/) - 3 years of physical monthly meetups, with the next one in April being our first virtual one!
 * [.NET Iasi](https://www.meetup.com/DotNetIasi/) - In the past 2 years we made physical monthly meetups, this month we'll do our first one live on March 27th
 * [Adelaide .NET User Group](https://www.meetup.com/Adelaide-dotNET/) - ADNUG has been meeting monthly for a very long time. Going virtual from April.
+<<<<<<< HEAD
 * [.NET Southwest (UK) User Group](https://www.meetup.com/dotnetsouthwest/) - DNSW is officially virtual as of April.
+=======
+* [Dot Net Notts](https://dotnetnotts.co/) - Going online March 2020
+>>>>>>> upstream/master
 
 # Potentially Virtual User Groups
 
 * [Brisbane .NET User Group](https://www.meetup.com/Brisbane-Net-User-Group/) - Currently looking into hosting events virtually  
+<<<<<<< HEAD
 * [Dot Net Notts](https://dotnetnotts.co/) - Preparing to move online
+=======
+* [.NET Southwest (UK) User Group](https://www.meetup.com/dotnetsouthwest/) - Currently looking into hosting events virtually
+>>>>>>> upstream/master
 
 # Potentially Virtual Conferences  
 
