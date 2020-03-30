@@ -2,8 +2,6 @@
 
 ## March
 
-[Building real-time applications with Blazor and GraphQL with Michael Staib - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269455344/) - **March 27th**
-
 [Simon Painter - Hacking C# & Stuart Lang - Async in C# - Dot Net Notts](https://www.meetup.com/dotnetnotts/events/269642073/) - **March 30th 18:30-21:30 UK time**
 
 [NUnit, MSTest and xUnit - What is similar? What is different? - DotNetDevs.at](https://www.meetup.com/dotnet-austria/events/269280721/) - **March 31st**
@@ -34,3 +32,5 @@
 [.NET Conf: Focus On Xamarin](https://devblogs.microsoft.com/xamarin/xamarin-conf-one-week-away) - **Monday 23rd March 8:00-16:00 UTC**
 
 [Jon Skeet - Crash, bang, wallop: miscellaneous lessons from exploring a drum kit](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/263970470/) - **March 24th**
+
+[Building real-time applications with Blazor and GraphQL with Michael Staib - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269455344/) - **March 27th**
