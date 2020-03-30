@@ -13,6 +13,8 @@
 ## April
 [Remote Kata - Dot Net York](https://www.meetup.com/dotnetYork/events/269346476/) - **April 2nd**
 
+[.NET Configuration is Easy ...Right? by Steve Collins - .NET Southwest (UK)](https://www.meetup.com/dotnetsouthwest/events/269724664/) - **April 7th**
+
 [Learn Authentication The Hard Way, with Andrew Best - Adelaide .NET User Group](https://www.meetup.com/en-AU/Adelaide-dotNET/events/269471859/) - **April 8th**
 
 [The Live Coders Conference - Affiliated with .NET Southwest User Group](https://www.meetup.com/dotnetsouthwest/events/269525151/) - **April 9th**
