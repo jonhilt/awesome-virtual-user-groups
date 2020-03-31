@@ -31,6 +31,6 @@
 
 [Jon Skeet - Crash, bang, wallop: miscellaneous lessons from exploring a drum kit](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/263970470/) - **March 24th**
 
-[Building real-time applications with Blazor and GraphQL with Michael Staib - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269455344/) - **March 27th**
+[Building real-time applications with Blazor and GraphQL with Michael Staib - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269455344/) - **March 27th** | [Watch Replay](https://www.youtube.com/watch?v=fFuyidMUsww) |
 
 [Simon Painter - Hacking C# & Stuart Lang - Async in C# - Dot Net Notts](https://www.meetup.com/dotnetnotts/events/269642073/) - **March 30th** | [Watch Replay](https://www.youtube.com/watch?v=BXxUvMehbE4&feature=emb_logo) |
