@@ -33,4 +33,4 @@
 
 [Building real-time applications with Blazor and GraphQL with Michael Staib - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269455344/) - **March 27th**
 
-[Simon Painter - Hacking C# & Stuart Lang - Async in C# - Dot Net Notts](https://www.meetup.com/dotnetnotts/events/269642073/) - **March 30th**
+[Simon Painter - Hacking C# & Stuart Lang - Async in C# - Dot Net Notts](https://www.meetup.com/dotnetnotts/events/269642073/) - **March 30th** | [Watch Replay](https://www.youtube.com/watch?v=BXxUvMehbE4&feature=emb_logo) |
