@@ -27,7 +27,7 @@
 
 [London .NET Virtual Lunchtime Meetup](https://t.co/NlrEmakC6G?amp=1) - **Thursday 19th March 13:00-14:00 UK time**
 
-[.NET Conf: Focus On Xamarin](https://devblogs.microsoft.com/xamarin/xamarin-conf-one-week-away) - **Monday 23rd March 8:00-16:00 UTC**
+[.NET Conf: Focus On Xamarin](https://devblogs.microsoft.com/xamarin/xamarin-conf-one-week-away) - **Monday 23rd March 8:00-16:00 UTC** | [Watch Replay](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oW4W_qQr_dlnKtAfTB0Ezl9) |
 
 [Jon Skeet - Crash, bang, wallop: miscellaneous lessons from exploring a drum kit](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/263970470/) - **March 24th**
 
