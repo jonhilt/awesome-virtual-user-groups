@@ -19,6 +19,7 @@ Organising an event? Submit a pull request with the relevant information.
 * [Adelaide .NET User Group](https://www.meetup.com/Adelaide-dotNET/) - ADNUG has been meeting monthly for a very long time. Going virtual from April.
 * [Dot Net Notts](https://dotnetnotts.co/) - Going online March 2020
 * [.NET Southwest (UK) User Group](https://www.meetup.com/dotnetsouthwest/) - DNSW is officially virtual as of April.
+* [dotnetsheff](https://www.meetup.com/dotnetsheff/) - Officially virtual as of April 🌐🎉.
 
 # Potentially Virtual User Groups
 
