@@ -19,6 +19,8 @@
 
 [Mark Rendle: Writing Code That Writes Code with Roslyn - .NET Oxford](https://www.meetup.com/dotnetoxford/events/269032612/) - **April 21st**
 
+[Umbraco - the V8 Way! - Manchester and North West Umbraco Meetup](https://www.meetup.com/Manchester-Umbraco-Meetup/events/269836055/) - **April 23rd**
+
 [Global Azure Virtual (online only event) - Orlando .NET User Group](https://www.meetup.com/ONETUG/events/267816898) - **April 25th**
 
 [Full Fat Functions! - Layla Porter](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/264156464) - **April 28th**
