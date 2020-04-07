@@ -13,6 +13,8 @@
 
 [.NET Configuration is Easy ...Right? by Steve Collins - .NET Southwest (UK)](https://www.meetup.com/dotnetsouthwest/events/269724664/) - **April 7th**
 
+[What is Blazor? And why's it so exciting? with Chris Sainty](https://www.meetup.com/dotnetsheff/events/269742837/) - **April 7th**
+
 [Learn Authentication The Hard Way, with Andrew Best - Adelaide .NET User Group](https://www.meetup.com/en-AU/Adelaide-dotNET/events/269471859/) - **April 8th**
 
 [The Live Coders Conference - Affiliated with .NET Southwest User Group](https://www.meetup.com/dotnetsouthwest/events/269525151/) - **April 9th**
