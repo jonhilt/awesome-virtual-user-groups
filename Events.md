@@ -17,7 +17,11 @@
 
 [The Live Coders Conference - Affiliated with .NET Southwest User Group](https://www.meetup.com/dotnetsouthwest/events/269525151/) - **April 9th**
 
+[Modeling in a Non-Relational World with Oren Eini - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269767513/) - **April 14th**
+
 [Mark Rendle: Writing Code That Writes Code with Roslyn - .NET Oxford](https://www.meetup.com/dotnetoxford/events/269032612/) - **April 21st**
+
+[Fixing Distributed Systems Fail with Jimmy Bogard - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269909772/) - **April 22nd**
 
 [Umbraco - the V8 Way! - Manchester and North West Umbraco Meetup](https://www.meetup.com/Manchester-Umbraco-Meetup/events/269836055/) - **April 23rd**
 
