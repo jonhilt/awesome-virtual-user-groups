@@ -21,6 +21,9 @@ Organising an event? Submit a pull request with the relevant information.
 * [.NET Southwest (UK) User Group](https://www.meetup.com/dotnetsouthwest/) - DNSW is officially virtual as of April.
 * [dotnetsheff](https://www.meetup.com/dotnetsheff/) - Officially virtual as of April 🌐🎉.
 
+# Virtual Conferences
+* [DotVVM Virtual Conference](https://www.dotvvm.com/blog/71/Save-the-date-of-DotVVM-Virtual-Conference-April-29-30) - Interested in building web apps in .NET using an MVVM approach? Don't miss out on our first live-streamed conference! 
+
 # Potentially Virtual User Groups
 
 * [Brisbane .NET User Group](https://www.meetup.com/Brisbane-Net-User-Group/) - Currently looking into hosting events virtually  
