@@ -23,6 +23,7 @@ Organising an event? Submit a pull request with the relevant information.
 
 # Virtual Conferences
 * [DotVVM Virtual Conference](https://www.dotvvm.com/blog/71/Save-the-date-of-DotVVM-Virtual-Conference-April-29-30) - Interested in building web apps in .NET using an MVVM approach? Don't miss out on our first live-streamed conference! 
+* [Microsoft Build 2020](https://www.microsoft.com/en-us/build?wt.mc_id=build_tw_oo_msdev_developer_home_covid-19) - MS Build, but virtual!
 
 # Potentially Virtual User Groups
 
