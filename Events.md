@@ -10,6 +10,8 @@
 
 [Global Azure Virtual (online only event) - Orlando .NET User Group](https://www.meetup.com/ONETUG/events/267816898) - **April 25th**
 
+[What is Blazor? And why’s it so exciting? - Chris Sainty](https://t.co/fZIo23IKGW?amp=1) - **April 27th**
+
 [Full Fat Functions! - Layla Porter](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/264156464) - **April 28th**
 
 [DotVVM Virtual Conference](https://www.dotvvm.com/blog/71/Save-the-date-of-DotVVM-Virtual-Conference-April-29-30) - **April 29-30**
