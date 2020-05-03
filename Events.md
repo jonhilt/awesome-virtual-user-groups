@@ -1,24 +1,10 @@
 #### This is a list of events ordered by their date. You'll find information on how to attend each one by clicking their links.
 
-## April
-
-[Mark Rendle: Writing Code That Writes Code with Roslyn - .NET Oxford](https://www.meetup.com/dotnetoxford/events/269032612/) - **April 21st**
-
-[Fixing Distributed Systems Fail with Jimmy Bogard - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269909772/) - **April 22nd**
-
-[Umbraco - the V8 Way! - Manchester and North West Umbraco Meetup](https://www.meetup.com/Manchester-Umbraco-Meetup/events/269836055/) - **April 23rd**
-
-[Global Azure Virtual (online only event) - Orlando .NET User Group](https://www.meetup.com/ONETUG/events/267816898) - **April 25th**
-
-[Chris Sainty - What is Blazor? And why’s it so exciting? - Dot Net South West](https://t.co/fZIo23IKGW?amp=1) - **April 27th**
-
-[Full Fat Functions! - Layla Porter](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/264156464) - **April 28th**
-
-[DotVVM Virtual Conference](https://www.dotvvm.com/blog/71/Save-the-date-of-DotVVM-Virtual-Conference-April-29-30) - **April 29-30**
-
 ## May
 
 [Lightning talks - .NET Oxford](https://www.meetup.com/dotnetoxford/events/270269847/) - **May 18th**
+
+[Chris Sainty - Building next generation web apps with Blazor](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/266606445/) - **May 26th**
 
 ## Past Events
 
@@ -49,3 +35,17 @@
 [The Live Coders Conference - Affiliated with .NET Southwest User Group](https://www.meetup.com/dotnetsouthwest/events/269525151/) - **April 9th**
 
 [Modeling in a Non-Relational World with Oren Eini - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269767513/) - **April 14th**
+
+[Mark Rendle: Writing Code That Writes Code with Roslyn - .NET Oxford](https://www.meetup.com/dotnetoxford/events/269032612/) - **April 21st**
+
+[Fixing Distributed Systems Fail with Jimmy Bogard - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/269909772/) - **April 22nd**
+
+[Umbraco - the V8 Way! - Manchester and North West Umbraco Meetup](https://www.meetup.com/Manchester-Umbraco-Meetup/events/269836055/) - **April 23rd**
+
+[Global Azure Virtual (online only event) - Orlando .NET User Group](https://www.meetup.com/ONETUG/events/267816898) - **April 25th**
+
+[Chris Sainty - What is Blazor? And why’s it so exciting? - Dot Net South West](https://t.co/fZIo23IKGW?amp=1) - **April 27th**
+
+[Full Fat Functions! - Layla Porter](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/264156464) - **April 28th**
+
+[DotVVM Virtual Conference](https://www.dotvvm.com/blog/71/Save-the-date-of-DotVVM-Virtual-Conference-April-29-30) - **April 29-30**
