@@ -2,6 +2,8 @@
 
 ## May
 
+[London Calling - London .NET User Group](https://www.meetup.com/London-NET-User-Group/events/270439741) - **May 13th**
+
 [Lightning talks - .NET Oxford](https://www.meetup.com/dotnetoxford/events/270269847/) - **May 18th**
 
 [Chris Sainty - Building next generation web apps with Blazor](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/266606445/) - **May 26th**
