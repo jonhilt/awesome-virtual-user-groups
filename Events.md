@@ -2,6 +2,8 @@
 
 ## May
 
+[London Calling - London .NET User Group](https://www.meetup.com/London-NET-User-Group/events/270439741) - **May 13th**
+
 [3D printed Bionic Hand a little IOT and a Xamarin Mobile App - Clifford Agius](https://www.meetup.com/Chester-Devs/events/268135980/) - **May 6th**
 
 [(Affiliated) iO .NET Virtual Meetup - Lightning Talks](https://www.meetup.com/dotnetsouthwest/events/270410969/) - **May 6th**
