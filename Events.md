@@ -2,9 +2,21 @@
 
 ## May
 
+[3D printed Bionic Hand a little IOT and a Xamarin Mobile App - Clifford Agius](https://www.meetup.com/Chester-Devs/events/268135980/) - **May 6th**
+
+[(Affiliated) iO .NET Virtual Meetup - Lightning Talks](https://www.meetup.com/dotnetsouthwest/events/270410969/) - **May 6th**
+
 [Lightning talks - .NET Oxford](https://www.meetup.com/dotnetoxford/events/270269847/) - **May 18th**
 
 [Chris Sainty - Building next generation web apps with Blazor](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/266606445/) - **May 26th**
+
+[Scott Hunter - .NET 5 and MS Build Announcements - .NET South East](https://www.meetup.com/dotnetsoutheast/events/270331624/) - **May 28th**
+
+## June 
+
+[Capability Mapping - Ian Cooper - Chester Devs](https://www.meetup.com/Chester-Devs/events/270160028/) - **June 3rd**
+
+[Jon Skeet - Crash, bang, wallop: miscellaneous lessons from exploring a drum kit - Leeds Sharp - A .NET User Group](https://www.meetup.com/Leeds-Sharp/events/268473445/) - **June 25th**
 
 ## Past Events
 
