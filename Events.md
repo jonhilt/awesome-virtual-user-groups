@@ -2,6 +2,8 @@
 
 ## May
 
+[Turbocharged: Writing High-Performance C# and .NET Code - .NET User Group Zurich](https://www.meetup.com/dotnet-zurich/events/270184814/) - **May 4th**
+
 [Lightning talks - .NET Oxford](https://www.meetup.com/dotnetoxford/events/270269847/) - **May 18th**
 
 [Chris Sainty - Building next generation web apps with Blazor](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/266606445/) - **May 26th**
