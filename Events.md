@@ -12,7 +12,11 @@
 
 [Lightning talks - .NET Oxford](https://www.meetup.com/dotnetoxford/events/270269847/) - **May 18th**
 
+[Jon Skeet - Dates and times: Hard, but not impossible - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/270291339/) - **May 22nd**
+
 [Chris Sainty - Building next generation web apps with Blazor](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/266606445/) - **May 26th**
+
+[Bogdan Bujdea - Using Blazor to build native mobile apps - Maxcode Innovative Tech Talks](https://www.meetup.com/Maxcode-Software-Development-Meetup-Group/events/270644684/) - **May 27th**
 
 [Scott Hunter - .NET 5 and MS Build Announcements - .NET South East](https://www.meetup.com/dotnetsoutheast/events/270331624/) - **May 28th**
 
