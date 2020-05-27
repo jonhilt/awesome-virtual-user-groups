@@ -2,20 +2,6 @@
 
 ## May
 
-[Turbocharged: Writing High-Performance C# and .NET Code - .NET User Group Zurich](https://www.meetup.com/dotnet-zurich/events/270184814/) - **May 4th**
-
-[3D printed Bionic Hand a little IOT and a Xamarin Mobile App - Clifford Agius](https://www.meetup.com/Chester-Devs/events/268135980/) - **May 6th**
-
-[(Affiliated) iO .NET Virtual Meetup - Lightning Talks](https://www.meetup.com/dotnetsouthwest/events/270410969/) - **May 6th**
-
-[London Calling - London .NET User Group](https://www.meetup.com/London-NET-User-Group/events/270439741) - **May 13th**
-
-[Lightning talks - .NET Oxford](https://www.meetup.com/dotnetoxford/events/270269847/) - **May 18th**
-
-[Jon Skeet - Dates and times: Hard, but not impossible - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/270291339/) - **May 22nd**
-
-[Chris Sainty - Building next generation web apps with Blazor](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/266606445/) - **May 26th**
-
 [Bogdan Bujdea - Using Blazor to build native mobile apps - Maxcode Innovative Tech Talks](https://www.meetup.com/Maxcode-Software-Development-Meetup-Group/events/270644684/) - **May 27th**
 
 [Scott Hunter - .NET 5 and MS Build Announcements - .NET South East](https://www.meetup.com/dotnetsoutheast/events/270331624/) - **May 28th**
@@ -69,3 +55,18 @@
 [Full Fat Functions! - Layla Porter](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/264156464) - **April 28th**
 
 [DotVVM Virtual Conference](https://www.dotvvm.com/blog/71/Save-the-date-of-DotVVM-Virtual-Conference-April-29-30) - **April 29-30**
+
+
+[Turbocharged: Writing High-Performance C# and .NET Code - .NET User Group Zurich](https://www.meetup.com/dotnet-zurich/events/270184814/) - **May 4th**
+
+[3D printed Bionic Hand a little IOT and a Xamarin Mobile App - Clifford Agius](https://www.meetup.com/Chester-Devs/events/268135980/) - **May 6th**
+
+[(Affiliated) iO .NET Virtual Meetup - Lightning Talks](https://www.meetup.com/dotnetsouthwest/events/270410969/) - **May 6th**
+
+[London Calling - London .NET User Group](https://www.meetup.com/London-NET-User-Group/events/270439741) - **May 13th**
+
+[Lightning talks - .NET Oxford](https://www.meetup.com/dotnetoxford/events/270269847/) - **May 18th**
+
+[Jon Skeet - Dates and times: Hard, but not impossible - DotNet Iasi](https://www.meetup.com/DotNetIasi/events/270291339/) - **May 22nd**
+
+[Chris Sainty - Building next generation web apps with Blazor](https://www.meetup.com/Birmingham-DotNet-And-Xamarin-User-Group/events/266606445/) - **May 26th**
