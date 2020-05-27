@@ -8,7 +8,7 @@ Organising an event? Submit a pull request with the relevant information.
 
 # Virtual Workshops
 
-* [Carl Franklin's Blazor Desk Show](http://blazordeskshow.com/) - Sponsored by DevExpress, lots of dates coming up in March and April
+* [Carl Franklin's Blazor Desk Show](http://blazordeskshow.com/) - Sponsored by DevExpress, ran in March and April
 
 # Virtual User Groups
 
