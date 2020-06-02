@@ -39,7 +39,7 @@ Organising an event? Submit a pull request with the relevant information.
 
 # Podcasts
 
-* [No Dogma Podcast - Dylan Beattie](https://nodogmapodcast.bryanhogan.net/143-dylan-beattie-tech-conferences-in-a-time-of-coronavirus/) - Dylan Beattie talks about the present and future of tech conferences - how organizers, presenters and attendees are adapting.
+* [No Dogma Podcast](https://nodogmapodcast.bryanhogan.net/143-dylan-beattie-tech-conferences-in-a-time-of-coronavirus/) - Dylan Beattie talks to Bryan Hogan about the present and future of tech conferences - how organizers, presenters and attendees are adapting.
 
 # Resources to help take your event online
 
