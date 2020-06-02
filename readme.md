@@ -37,6 +37,10 @@ Organising an event? Submit a pull request with the relevant information.
 * [DDD East Anglia](https://www.dddeastanglia.com) - Looking into running an online event for 2020
 * [NDC Conferences](https://dylanbeattie.net/2020/03/18/ndc-online-community-ambassador.html) - A blog post from [Dylan Beattie](https://twitter.com/dylanbeattie) about joining NDC conferences as their Online Community Ambassador, working with them to deliver virtual events and conferences over the coming months.
 
+# Podcasts
+
+* [No Dogma Podcast - Dylan Beattie](https://nodogmapodcast.bryanhogan.net/143-dylan-beattie-tech-conferences-in-a-time-of-coronavirus/) - Dylan Beattie talks about the present and future of tech conferences - how organizers, presenters and attendees are adapting.
+
 # Resources to help take your event online
 
 * [How to host an online event on meetup](https://www.meetup.com/blog/how-to-host-an-online-event-on-meetup/) - "during the coronavirus advisory, we’re working on solutions to help you host online events and keep your communities both safe and connected"
