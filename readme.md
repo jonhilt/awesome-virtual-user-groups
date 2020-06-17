@@ -25,6 +25,7 @@ Organising an event? Submit a pull request with the relevant information.
 * [DotVVM Virtual Conference](https://www.dotvvm.com/blog/71/Save-the-date-of-DotVVM-Virtual-Conference-April-29-30) - Interested in building web apps in .NET using an MVVM approach? Don't miss out on our first live-streamed conference! 
 * [Microsoft Build 2020](https://www.microsoft.com/en-us/build?wt.mc_id=build_tw_oo_msdev_developer_home_covid-19) - MS Build, but virtual!
 * [JetBrains .NET Days Online](https://pages.jetbrains.com/dotnet-days-2020/github) - A free, two-day virtual event hosted by JetBrains on May 13–14, 2020.
+* [.NET Conf 2020](https://www.dotnetconf.net/) - A free, three-day virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf!
 
 # Potentially Virtual User Groups
 
