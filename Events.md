@@ -2,17 +2,9 @@
 
 ## June 
 
-[Capability Mapping - Ian Cooper - Chester Devs](https://www.meetup.com/Chester-Devs/events/270160028/) - **June 3rd**
-
-[(Affiliated) Machine Learning; an Introduction to ML.NET with Alexander Slotte](https://www.meetup.com/dotnetsouthwest/events/270974302/) - **June 3rd**
-
-[Scott Hanselman!!!](https://www.meetup.com/dotnetoxford/events/270602478/) - **June 9th**
-
-[Sean Whitesell: Microservices - The Easy Way is the Wrong Way](https://www.meetup.com/dotnetsoutheast/events/270949038/) - **June 16th**
-
-[Virtual Meetup - What is Vue.js with Shawn Wildermuth](https://www.meetup.com/dotnetsouthwest/events/270674800/) - **June 18th**
-
 [Jon Skeet - Crash, bang, wallop: miscellaneous lessons from exploring a drum kit - Leeds Sharp - A .NET User Group](https://www.meetup.com/Leeds-Sharp/events/268473445/) - **June 25th**
+
+[Domain Modeling Made Functional with Scott Wlaschin](https://www.meetup.com/netcorebcn/events/271371730/) - **June 30th**
 
 ## Past Events
 
@@ -76,3 +68,13 @@
 [Bogdan Bujdea - Using Blazor to build native mobile apps - Maxcode Innovative Tech Talks](https://www.meetup.com/Maxcode-Software-Development-Meetup-Group/events/270644684/) - **May 27th**
 
 [Scott Hunter - .NET 5 and MS Build Announcements - .NET South East](https://www.meetup.com/dotnetsoutheast/events/270331624/) - **May 28th**
+
+[Capability Mapping - Ian Cooper - Chester Devs](https://www.meetup.com/Chester-Devs/events/270160028/) - **June 3rd**
+
+[(Affiliated) Machine Learning; an Introduction to ML.NET with Alexander Slotte](https://www.meetup.com/dotnetsouthwest/events/270974302/) - **June 3rd**
+
+[Scott Hanselman!!!](https://www.meetup.com/dotnetoxford/events/270602478/) - **June 9th**
+
+[Sean Whitesell: Microservices - The Easy Way is the Wrong Way](https://www.meetup.com/dotnetsoutheast/events/270949038/) - **June 16th**
+
+[Virtual Meetup - What is Vue.js with Shawn Wildermuth](https://www.meetup.com/dotnetsouthwest/events/270674800/) - **June 18th**
