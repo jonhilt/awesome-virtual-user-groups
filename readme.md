@@ -2,8 +2,6 @@
 
 In light of the ever-changing Covid-19 outbreak, and as more of us find ourselves spending long periods of time isolated from friends, family and colleagues, here's a list of .NET user groups (and conferences) "going virtual" in the coming months.
 
-**For a chronological list of upcoming events check out [upcoming events](Events.md)**.
-
 Organising an event? Submit a pull request with the relevant information.
 
 # Virtual Workshops
