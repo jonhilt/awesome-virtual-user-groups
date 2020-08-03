@@ -47,3 +47,4 @@ Organising an event? Submit a pull request with the relevant information.
 * [How to host an online event on meetup](https://www.meetup.com/blog/how-to-host-an-online-event-on-meetup/) - "during the coronavirus advisory, we’re working on solutions to help you host online events and keep your communities both safe and connected"
 * [The best gear for remote presentations](https://www.youtube.com/watch?v=yNzU-TPdxR4) - You certainly don't need everything mentioned here to take your event online but a really interesting look at an advanced setup nonetheless
 * [Dylan Beattie - Going Virtual](https://dylanbeattie.net/2020/03/19/going-virtual-part-2.html) - Dylan provides a really useful commentary on how he's upping his virtual game in response to recent events
+* [How to run remote workshops](https://ursatile.com/workshops/how-to-run-remote-workshops.html) - Want (or need) to start running workshops online? Dylan (again!) will show you how!
