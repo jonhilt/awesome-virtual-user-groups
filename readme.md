@@ -18,6 +18,7 @@ Organising an event? Submit a pull request with the relevant information.
 * [Dot Net Notts](https://dotnetnotts.co/) - Going online March 2020
 * [.NET Southwest (UK) User Group](https://www.meetup.com/dotnetsouthwest/) - DNSW is officially virtual as of April.
 * [dotnetsheff](https://www.meetup.com/dotnetsheff/) - Officially virtual as of April 🌐🎉.
+* [Peterborough .NET Meetup](https://www.meetup.com/Peterborough-NET-Meetup/) - Hosted first virtual Meetup on Tuesday 21st July 2020. Next event coming up on Tuesday 22nd September 2020
 
 # Virtual Conferences
 * [DotVVM Virtual Conference](https://www.dotvvm.com/blog/71/Save-the-date-of-DotVVM-Virtual-Conference-April-29-30) - Interested in building web apps in .NET using an MVVM approach? Don't miss out on our first live-streamed conference! 
