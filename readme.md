@@ -1,5 +1,13 @@
 # Awesome .NET virtual user groups (and conferences)
 
+As it seems we're now into an extended period of virtually every user group and conference going, um, virtual (should have thought that sentence through a bit more) I'm going to archive this group for now.
+
+Thanks for visiting :-)
+
+
+The below information may still be relevant/useful but is not being updated
+---
+
 In light of the ever-changing Covid-19 outbreak, and as more of us find ourselves spending long periods of time isolated from friends, family and colleagues, here's a list of .NET user groups (and conferences) "going virtual" in the coming months.
 
 Organising an event? Submit a pull request with the relevant information.
